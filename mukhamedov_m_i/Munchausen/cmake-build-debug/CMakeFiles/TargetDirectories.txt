@@ -1,6 +1,0 @@
-D:/CLionProjects/Munchausen/cmake-build-debug/CMakeFiles/AD.dir
-D:/CLionProjects/Munchausen/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLionProjects/Munchausen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/CLionProjects/Munchausen/cmake-build-debug/geom/CMakeFiles/geom.dir
-D:/CLionProjects/Munchausen/cmake-build-debug/geom/CMakeFiles/edit_cache.dir
-D:/CLionProjects/Munchausen/cmake-build-debug/geom/CMakeFiles/rebuild_cache.dir

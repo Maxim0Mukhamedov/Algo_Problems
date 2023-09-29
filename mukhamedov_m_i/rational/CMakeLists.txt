@@ -1,7 +1,0 @@
-cmake_minimum_required(VERSION 3.8)
-project(Rational)
-set(CMAKE_CXX_STANDARD 17)
-add_subdirectory(rational)
-add_executable(test main.cpp)
-find_package(doctest REQUIRED)
-target_link_libraries(test rat doctest::doctest)
